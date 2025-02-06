@@ -5,6 +5,9 @@ Don't expect me to do some big project that is always useful for you.\
 This is just to get cool projects out no mater if it's big or small.
 
 # My Favorite Projects
+- Dia Muck Mods
+  - This is a bit bius since this was the first ever mod/mod menu I have ever made. The only thing in it that is client sided (Only you can see it) is the spawners
+  - Project: https://github.com/TheDiamondOG/DiaMuckMods
 - Terminal Binary Script
   - The point of this is make it look like your a hollywood hacker. This is more of a party trick than anything.
   - Project: https://github.com/TheDiamondOG/Hacker-Binary-Script
