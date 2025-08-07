@@ -13,10 +13,7 @@ This is just to get cool projects out no mater if it's big or small.
   - Project: https://github.com/TheDiamondOG/DiaSupermarketTogetherMenu
 - Terminal Binary Script
   - The point of this is make it look like your a hollywood hacker. This is more of a party trick than anything.
-  - Project: https://github.com/TheDiamondOG/Hacker-Binary-Script
-- Minecraft Server Tracker
-  - This was inspired by Gorilla Tag self trackers but for minecraft. This only works for 1.20.4 though.
-  - Project: https://github.com/TheDiamondOG/MinecraftServerTracker/tree/main
+  - Project: https://github.com/TheDiamondOG/RandomScripts/blob/main/Cross%20Platform/Fun/binary_cool.py
  
 # Coding Languages I know
 - Bash (Why do people count this as a coding language)
