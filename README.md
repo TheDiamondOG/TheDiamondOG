@@ -23,6 +23,5 @@ This is just to get cool projects out no mater if it's big or small.
 - HTML and CSS
 
 # Social Medias
-- Youtube: https://www.youtube.com/@TheDiamondOG_YT
-- Twitch: https://twitch.tv/thediamondog_yt
 - Website: https://projectdia.net
+- Discord Server: https://discord.gg/zSkfrUuJAV
