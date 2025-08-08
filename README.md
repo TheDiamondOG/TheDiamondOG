@@ -24,4 +24,4 @@ This is just to get cool projects out no mater if it's big or small.
 
 # Social Medias
 - Website: https://projectdia.net
-- Discord Server: https://discord.gg/zSkfrUuJAV
+- Discord Server: https://discord.projectdia.net
